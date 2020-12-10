@@ -1,0 +1,31 @@
+
+.settings:hover{
+    background: linear-gradient(45deg,#49d0da 50%,#210c59);
+    color: white;
+    cursor: pointer;
+}
+.speedup:hover{
+    background: linear-gradient(45deg,#f33474 50%,#f55b2a);
+    color: white;
+    cursor: pointer;
+}
+.privacy:hover{
+    background: linear-gradient(45deg,#5036ec 50%,#44a2f6);
+    color: white;
+    cursor: pointer;
+}
+.backups:hover{
+    background: linear-gradient(45deg,#fd7f30 50%,#fdb642);
+    color: white;
+    cursor: pointer;
+}
+.sslsecured:hover{
+    background: linear-gradient(45deg,#974eff 50%,#5a57fb);
+    color: white;
+    cursor: pointer;
+}
+.database:hover{
+    background: linear-gradient(45deg,rgb(84, 194, 175) 50%,rgb(80, 170, 80));
+    color: white;
+    cursor: pointer;
+}
